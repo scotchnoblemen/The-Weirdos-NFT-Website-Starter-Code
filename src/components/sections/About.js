@@ -154,30 +154,13 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        What are the origins  <br />of scotch noblemen?
+        Do You Like<br /> Passive Income? 
         </Title>
         <SubText>
-        In the highlands of Scotland, dating back to 2000 BC, a series of games is played for honor and glory.         </SubText>
+        The Scotch Noblemen collection offers an industry refining staking game, securitized tokenomics, and a metaverse-land owning DAO!  </SubText>
         <SubTextLight>
-The games are broken up into categories:
-Knife and Battle Axe throw,
-Archery,
-Tug o’War,
-Heavy athletics,
-Including,
-Caber-Toss,
-Hammer throw,
-Stone-put,
-Stone lift,
-Single stick fencing,
-Weight throw,
-Weight-over bar,
-Track,
-Hill-run,
-Track,
-Other,
-Dancing,
-and Pipe and Drum
+        Earn ERC-20 tokens from Highland Experience, then win big, or loose it all by predicting the victor of the highland game!
+
 
         </SubTextLight>
         <ButtonContainer>
