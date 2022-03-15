@@ -154,17 +154,35 @@ const About = () => {
           <Carousel /> </Suspense> </Box>
         <Box> 
         <Title>
-        Welcome To The <br /> Weirdos Club.
+        What are the origins  <br />of scotch noblemen?
         </Title>
         <SubText>
-        The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
-        </SubText>
+        In the highlands of Scotland, dating back to 2000 BC, a series of games is played for honor and glory.         </SubText>
         <SubTextLight>
-        With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
+The games are broken up into categories:
+Knife and Battle Axe throw,
+Archery,
+Tug o’War,
+Heavy athletics,
+Including,
+Caber-Toss,
+Hammer throw,
+Stone-put,
+Stone lift,
+Single stick fencing,
+Weight throw,
+Weight-over bar,
+Track,
+Hill-run,
+Track,
+Other,
+Dancing,
+and Pipe and Drum
+
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
-        <Button text="JOIN OUR DISCORD" link="#" />
+        <Button text="JOIN OUR DISCORD" link="https://discord.com/invite/jRyTSskbA4" />
         </ThemeProvider>
         </ButtonContainer>
          </Box>

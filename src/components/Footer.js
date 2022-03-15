@@ -146,13 +146,13 @@ const Footer = () => {
       >
         <Facebook />
       </a>
-      <a href="https://www.instagram.com/code.bucks/" target='_blank' 
+      <a href="https://www.instagram.com/scotchnoblemennft/" target='_blank' 
       rel="noopener noreferrer"
       aria-label='instagram'
       >
         <Instagram />
       </a>
-      <a href="https://twitter.com/code_bucks" target='_blank' 
+      <a href="https://twitter.com/scotchnoblemen" target='_blank' 
       rel="noopener noreferrer"
       aria-label='twitter'
       >
@@ -178,11 +178,11 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} Weirdos Club. All rights reserved.
+          &copy; {new Date().getFullYear()} Rare Blue LLC. All rights reserved.
         </span>
         <span>
-          Made with &#10084; by <a href="http://youtube.com/codebucks" target="_blank"  rel="noopener noreferrer">
-            CodeBucks
+          Made with &#10084; by <a href="https://www.youtube.com/channel/UCi5Pui2YiE2Ivh-JIz4myIw/" target="_blank"  rel="noopener noreferrer">
+            ScotchNoblemen
           </a>
         </span>
       </Bottom>

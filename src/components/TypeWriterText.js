@@ -77,7 +77,7 @@ const TypeWriterText = () => {
   return (
     <>
         <Title>
-      Discover a new era of cool
+        Do You Have What it Takes to be a...
       <Typewriter
         options={{
           autoStart: true,
@@ -85,21 +85,24 @@ const TypeWriterText = () => {
         }}
         onInit={(typewriter) => {
           typewriter
-            .typeString(`<span class="text-1">NFTs.</span>`)
+            .typeString(`<span class="text-1">Nobleman.</span>`)
             .pauseFor(2000)
             .deleteAll()
-            .typeString(`<span class="text-2">Collectible Items.</span>`)
+            .typeString(`<span class="text-2">Noblewoman.</span>`)
             .pauseFor(2000)
             .deleteAll()
-            .typeString(`<span class="text-3">Ape Killers!</span>`)
+            .typeString(`<span class="text-3">King.</span>`)
+            .pauseFor(2000)
+            .deleteAll()
+            .typeString(`<span class="text-4">Lord.</span>`)
             .pauseFor(2000)
             .deleteAll()
             .start();
         }}
       />
-      
+
     </Title>
-    <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
+    <SubTitle>Welcome to the ever expanding world of The Scotch Noblemen NFT collection! </SubTitle>
     <ButtonContainer>
     <Button text="Explore" link="#about" />
     </ButtonContainer>

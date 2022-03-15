@@ -211,7 +211,7 @@ const Roadmap = () => {
 
   return (
     <Section id="roadmap">
-      <Title>Roadmap</Title>
+      <Title>Road Map</Title>
       <Container>
         <SvgContainer>
           <DrawSvg />
@@ -220,29 +220,66 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Grand Opening"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Create 721 Contract (completed)"
+            subtext="February 2022"
+            subtext="fds 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Great Benefits"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Refine our website and Discord (completed)"
+            subtext="March 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Early Access"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Build our team (completed) "
+            subtext="March 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="New Merch"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Increase Social Media presence (completed) "
+            subtext="March 2022"
+          />
+
+                    <RoadMapItem
+            addToRef={addToRefs}
+            title="Build Community/ Weekly Twitter Spaces "
+            subtext="April 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Holders Ranking"
-            subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
+            title="Fill 2000 whitelist spots"
+            subtext="April 2022"
           />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Reveal Scotch Noblemen collection"
+            subtext="May 2022"
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Rollout merchandise"
+            subtext="May 2022"
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Drop Scottish Noblewomen  "
+            subtext="May 2022"
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Wisconsin highland games"
+            subtext="Labor day weekend 2022"
+          />  
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Create a DAO to buy meta-verse land"
+            subtext="September 2022"
+          />
+          <RoadMapItem
+            addToRef={addToRefs}
+            title="Full securitization"
+            subtext="September 2022"
+          />                                      
         </Items>
       </Container>
     </Section>

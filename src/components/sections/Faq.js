@@ -98,28 +98,30 @@ useLayoutEffect(() => {
     <Container>
 
 <Box>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHERE CAN I VIEW MY NFTS?" >
-  Once minted or bought simply connect to your OpenSea account to view your NFTs.
-  </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE METAVERSE?" >
-  A metaverse is a network of 3D virtual worlds focused on social connection. In futurism and science fiction, it is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.
+  <Accordion ScrollTrigger={ScrollTrigger} title="How do I contact The Scotch Noblemen team?" >
+  Hop in the Discord server and submit a ticket Reach out on twitter and shoot one of us a dm.
+Come to the AMAs and Twitter-Spaces and ask there.
 
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHY DO WE NEED ROYALTIES?" >
-  The amount of royalties was fixed at 5% to finance the Weirdos Club's projects. We have the ambition to organize multiple events around the world in order to strengthen the community and build a network of entrepreneurs and investors with the same mindset and common interests.
+  <Accordion ScrollTrigger={ScrollTrigger} title="What is the total supply of Scotch Noblemen?" >
+  Scotch Noblemen is a 10,000 Generative project on the Ethereum blockchain. Post-mint there will be a drop of 10,000 generative Scotch Noblewomen .
+
+
   </Accordion>
+  <Accordion ScrollTrigger={ScrollTrigger} title="Do I have to be Scottish to be apart of the community?" >
+  Absolutely not! As a matter of fact, the Scotch Noblemen is an multinational team!</Accordion>
 </Box>
 <Box>
-<Accordion ScrollTrigger={ScrollTrigger} title="HOW CAN I USE MY NFT?" >
-You will be able to use your NFT as an avatar in the Metaverse and our future video game. Holding also means that you are part of an exclusive network of investors and entrepreneurs.
+<Accordion ScrollTrigger={ScrollTrigger} title="How do I get on the whitelist?" >
+1. There are two ways to get on the whitelist: Invite 4 people to the Discord (these people have to stay in the discord and be involved) 
+2. Reach level 10 in the server through interaction with the community!
+
   </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT ARE THE WEIRDOS?
+  <Accordion ScrollTrigger={ScrollTrigger} title="Staking Utility?" >
+  Scotch Noblemen live on a ERC-721 contract, a contract rich is with the ability for staking features This staking will be done with Uni-Swap. </Accordion>
+  <Accordion ScrollTrigger={ScrollTrigger} title="What Are The Launch Details?
 " >
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore deserunt consequatur quisquam maxime molestias dolores ipsum, exercitationem vel sint quidem aliquam modi quis impedit corporis unde inventore fugiat provident in.
-  </Accordion>
-  <Accordion ScrollTrigger={ScrollTrigger} title="WHAT IS THE FUSION PROCESS?
-" >
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem, maxime, similique neque minus aliquam dolore doloremque laboriosam, facilis quibusdam unde sint officia.
+Scotch Noblemen is a staking game on the Ethereum blockchain. Those on the whitelist will be able to mint on May 10th for 0.05 ETH! Public mint will go live on May 15th, 2022 at 0.07 ETH. Community members will be able to mint their Noblemen on our website.
   </Accordion>
 </Box>
     </Container>
