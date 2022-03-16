@@ -159,13 +159,13 @@ const About = () => {
         <SubText>
         The Scotch Noblemen collection offers an industry refining staking game, securitized tokenomics, and a metaverse-land owning DAO!  </SubText>
         <SubTextLight>
-        Earn ERC-20 tokens from Highland Experience, then win big, or loose it all by predicting the victor of the highland game!
+        Earn ERC-20 tokens from yield farm name, then win big, or loose it all by predicting the victor of the highland game!
 
 
         </SubTextLight>
         <ButtonContainer>
         <ThemeProvider theme={dark}>
-        <Button text="JOIN OUR DISCORD" link="https://discord.com/invite/jRyTSskbA4" />
+        <button class="sc-bdvvtL hhmjnQ"><a href="https://discord.gg/uvU3Fs3vMM" aria-label="JOIN OUR DISCORD" target="_blank" rel="noreferrer">JOIN OUR DISCORD</a></button>
         </ThemeProvider>
         </ButtonContainer>
          </Box>

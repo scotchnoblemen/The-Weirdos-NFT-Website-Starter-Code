@@ -222,7 +222,6 @@ const Roadmap = () => {
             addToRef={addToRefs}
             title="Create 721 Contract (completed)"
             subtext="February 2022"
-            subtext="fds 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
