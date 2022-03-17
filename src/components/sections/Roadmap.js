@@ -10,7 +10,6 @@ const Section = styled.section`
   background-color: ${(props) => props.theme.body};
   position: relative;
   display: inline-block;
-  overflow: hidden;
 
 `;
 const Title = styled.h1`
