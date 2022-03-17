@@ -9,9 +9,7 @@ const Section = styled.section`
   width: 100vw;
   background-color: ${(props) => props.theme.body};
   position: relative;
-  display: inline-block;
-  margin-top: 5vh;
-  margin-bottom: 5vh;
+  display: flex;
 
 `;
 const Title = styled.h1`
@@ -23,7 +21,7 @@ const Title = styled.h1`
   align-items: center;
   margin: 1rem auto;
   border-bottom: 2px solid ${(props) => props.theme.text};
-  width: 100%;
+  width: fit-content;
 
   @media (max-width: 40em) {
     font-size: ${(props) => props.theme.fontxl};
