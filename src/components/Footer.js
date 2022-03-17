@@ -140,9 +140,9 @@ const Footer = () => {
     <Left> 
     <Logo />
     <IconList>
-      <a href="http://facebook.com" target='_blank' 
+      <a href="https://medium.com/@scotchnoblemennft" target='_blank' 
       rel="noopener noreferrer"
-      aria-label='facebook'
+      aria-label='Medium'
       >
         <Facebook />
       </a>
