@@ -179,12 +179,12 @@ const scrollTo = (id) => {
           <MenuItem onClick={() => scrollTo('faq')}  >Faq</MenuItem>
           <MenuItem>
             <div className="mobile">
-            <button class="sc-bdvvtL hhmjnQ"><a href="http://www.scotchnoblemint.xyz" aria-label="Mint NFT" target="_blank" rel="noreferrer">Mint NFT</a></button>
+            <button class="sc-bdvvtL hhmjnQ"><a href="http://www.scotchnoblemint.xyz" aria-label="Mint NFT" target="_blank" rel="noreferrer">Mint Testnet NFT</a></button>
             </div>
           </MenuItem>
         </Menu>
           <div className="desktop">
-          <button class="sc-bdvvtL hhmjnQ"><a href="http://www.scotchnoblemint.xyz" aria-label="Mint NFT" target="_blank" rel="noreferrer">Mint NFT</a></button>
+          <button class="sc-bdvvtL hhmjnQ"><a href="http://www.scotchnoblemint.xyz" aria-label="Mint NFT" target="_blank" rel="noreferrer">Mint Testnet NFT</a></button>
           </div>
 
       </NavBar>
