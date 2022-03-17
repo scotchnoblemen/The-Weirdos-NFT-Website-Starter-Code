@@ -158,7 +158,7 @@ const Footer = () => {
       >
         <Twitter />
       </a>
-      <a href="http://linkedin.com" target='_blank' 
+      <a href="https://raritysniper.com" target='_blank' 
       rel="noopener noreferrer"
       aria-label='linkedin'
       >
