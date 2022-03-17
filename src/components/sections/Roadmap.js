@@ -23,7 +23,7 @@ const Title = styled.h1`
   align-items: center;
   margin: 1rem auto;
   border-bottom: 2px solid ${(props) => props.theme.text};
-  width: fit-content;
+  width: 100%;
 
   @media (max-width: 40em) {
     font-size: ${(props) => props.theme.fontxl};
