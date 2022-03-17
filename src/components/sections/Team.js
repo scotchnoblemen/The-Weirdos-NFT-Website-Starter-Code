@@ -1,15 +1,15 @@
 import React, { lazy, Suspense } from 'react'
 import styled from 'styled-components';
 
-import img1 from '../../assets/Nfts/bighead.svg';
-import img2 from '../../assets/Nfts/bighead-1.svg';
-import img3 from '../../assets/Nfts/bighead-2.svg';
-import img4 from '../../assets/Nfts/bighead-3.svg';
-import img5 from '../../assets/Nfts/bighead-4.svg';
-import img6 from '../../assets/Nfts/bighead-5.svg';
-import img7 from '../../assets/Nfts/bighead-6.svg';
-import img8 from '../../assets/Nfts/bighead-7.svg';
-import img9 from '../../assets/Nfts/bighead-8.svg';
+import img1 from '../../assets/Nfts/bighead.png';
+import img2 from '../../assets/Nfts/bighead-1.png';
+import img3 from '../../assets/Nfts/bighead-2.png';
+import img4 from '../../assets/Nfts/bighead-3.png';
+import img5 from '../../assets/Nfts/bighead-4.png';
+import img6 from '../../assets/Nfts/bighead-5.png';
+import img7 from '../../assets/Nfts/bighead-6.png';
+import img8 from '../../assets/Nfts/bighead-7.png';
+import img9 from '../../assets/Nfts/bighead-8.png';
 import Loading from '../Loading';
 // import ConfettiComponent from '../Confetti';
 
@@ -143,14 +143,14 @@ const Team = () => {
       <Title>Team</Title>
       <Container>
         <MemberComponent img={img1}  name="Kevin Woods" position="founder" />
-        <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder" />
+        <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" />
         <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" />
         <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" />
         <MemberComponent img={img5}  name="Nikki Studios" position="Artist 1" />
-        {/* <MemberComponent img={img6}  name="Vivi Berserk" position="Artist 2" />
-        <MemberComponent img={img7}  name="CYBER PUNK" position="Blockchain Specialist" />
-        <MemberComponent img={img8}  name="MONK" position="Web3 Developer" />
-        <MemberComponent img={img9}  name="BANANA" position="Marketing Manager" /> */}
+        <MemberComponent img={img6}  name="Vivi Berserk" position="Artist 2" />
+        <MemberComponent img={img7}  name="Fergus" position="Web3 Developer" />
+        <MemberComponent img={img8}  name="Kevin" position="Web3 Developer" />
+        <MemberComponent img={img9}  name="Diana" position="Marketing Manager" /> 
         
 
       </Container>

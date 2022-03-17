@@ -206,34 +206,18 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Create 721 Contract (completed)"
+            title="Create ERC 721 Contract (completed)"
             subtext="February 2022"
           />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Refine our website and Discord (completed)"
-            subtext="March 2022"
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Build our team (completed) "
-            subtext="March 2022"
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Increase Social Media presence (completed) "
-            subtext="March 2022"
-          />
-
                     <RoadMapItem
             addToRef={addToRefs}
             title="Build Community/ Weekly Twitter Spaces "
-            subtext="April 2022"
+            subtext="March 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
             title="Fill 2000 whitelist spots"
-            subtext="April 2022"
+            subtext="May 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
@@ -242,29 +226,24 @@ const Roadmap = () => {
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Rollout merchandise"
-            subtext="May 2022"
+            title="Drop Bonnie Lasses"
+            subtext="June 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Drop Scottish Noblewomen  "
-            subtext="May 2022"
+            title="Drop NFT Staking Game"
+            subtext="July 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Wisconsin highland games"
+            title="Scottish Highland Games"
             subtext="Labor day weekend 2022"
           />  
           <RoadMapItem
             addToRef={addToRefs}
-            title="Create a DAO to buy meta-verse land"
+            title="Meta-verse land DAO"
             subtext="September 2022"
-          />
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Full securitization"
-            subtext="September 2022"
-          />                                      
+          />                                     
         </Items>
       </Container>
     </Section>
