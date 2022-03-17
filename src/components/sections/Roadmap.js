@@ -10,6 +10,8 @@ const Section = styled.section`
   background-color: ${(props) => props.theme.body};
   position: relative;
   display: inline-block;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
 
 `;
 const Title = styled.h1`
