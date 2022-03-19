@@ -149,9 +149,12 @@ const Banner = () => {
         </ImgContainer>
         <Title>Join the  <br /> Scotch Noblemen  </Title>
         <BtnContainer>
-        <JoiNow>
-            Join Now
-        </JoiNow>
+        <a href='https://discord.gg/aFCxeH8Fw2' aria-label='discord link' target="_blank" rel="noreferrer" >
+<JoiNow>
+Join Now
+</JoiNow>
+</a>
+
 
         </BtnContainer>
     </Section>
