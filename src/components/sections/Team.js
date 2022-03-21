@@ -143,6 +143,7 @@ const Team = () => {
       <Title>Team</Title>
       <Container>
         <MemberComponent img={img1}  name="Kevin Woods" position="founder" />
+        
         <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" />
         <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" />
         <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" />
