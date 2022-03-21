@@ -99,12 +99,12 @@ useLayoutEffect(() => {
 
 <Box>
   <Accordion ScrollTrigger={ScrollTrigger} title="How do I contact The Scotch Noblemen team?" >
-  Hop in the Discord server and submit a ticket Reach out on twitter and shoot one of us a dm.
-Come to the AMAs and Twitter-Spaces and ask there.
+  Hop in the Discord server and submit a ticket. Reach out on twitter and shoot one of us a DM.
+Come to the AMAs and Twitter Spaces and ask there.
 
   </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="What is the total supply of Scotch Noblemen?" >
-  Scotch Noblemen is a 10,000 Generative project on the Ethereum blockchain. Post-mint there will be a drop of 10,000 generative Scotch Noblewomen .
+  Scotch Noblemen is a 10,000 Generative project on the Ethereum blockchain. Post-mint there will be a drop of 10,000 generative Scotch Noblewomen.
 
 
   </Accordion>
@@ -114,14 +114,14 @@ Come to the AMAs and Twitter-Spaces and ask there.
 <Box>
 <Accordion ScrollTrigger={ScrollTrigger} title="How do I get on the whitelist?" >
 1. There are two ways to get on the whitelist: Invite 4 people to the Discord (these people have to stay in the discord and be involved) 
-2. Reach level 10 in the server through interaction with the community!
+2. Reach level 5 in the server through interaction with the community!
 
   </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="Staking Utility?" >
-  Scotch Noblemen live on a ERC-721 contract, a contract rich is with the ability for staking features This staking will be done with Uni-Swap. </Accordion>
+  Scotch Noblemen live on an ERC 721 contract, a contract rich with the ability for staking features. Staking will be held on our website. </Accordion>
   <Accordion ScrollTrigger={ScrollTrigger} title="What Are The Launch Details?
 " >
-Scotch Noblemen is a staking game on the Ethereum blockchain. Those on the whitelist will be able to mint on May 10th for 0.05 ETH! Public mint will go live on May 15th, 2022 at 0.07 ETH. Community members will be able to mint their Noblemen on our website.
+Scotch Noblemen is a staking game on the Ethereum blockchain. Those on the whitelist will be able to mint on May 15th at 11:59PM CST for 0.05 ETH! Public mint will go live on May 18th, 2022 at 11:59PM CST at 0.07 ETH. Community members will be able to mint their Noblemen on our website.
   </Accordion>
 </Box>
     </Container>

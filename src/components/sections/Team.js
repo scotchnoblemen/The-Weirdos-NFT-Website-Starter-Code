@@ -147,9 +147,9 @@ const Team = () => {
         <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" />
         <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" />
         <MemberComponent img={img5}  name="Nikki Studios" position="Artist 1" />
-        <MemberComponent img={img6}  name="Vivi Berserk" position="Artist 2" />
+        <MemberComponent img={img6}  name="GDP" position="Moderator" />
         <MemberComponent img={img7}  name="Fergus" position="Web3 Developer" />
-        <MemberComponent img={img8}  name="Kevin" position="Web3 Developer" />
+        <MemberComponent img={img8}  name="Kevin" position="Moderator" />
         <MemberComponent img={img9}  name="Diana" position="Marketing Manager" /> 
         
 
