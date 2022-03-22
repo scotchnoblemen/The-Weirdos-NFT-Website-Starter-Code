@@ -121,19 +121,34 @@ color: ${props => `rgba(${props.theme.textRgba},0.9)`};
 font-weight:400;
 `
 
-const MemberComponent = ({img, name=" ",position=" "}) => {
+// const MemberComponent = ({img,link, name=" ",position=" "}) => {
+
+//   return(
+//     <Item>
+//       <ImageContainer>
+//         <img width={500} height={400}  src={img} alt={link} />
+//       </ImageContainer>
+//       <Name>{link}</Name>
+//       <Position>{position}</Position>
+//     </Item>
+//   )
+// }
+const MemberComponent = ({img, name=" ",position=" ", link}) => {
 
   return(
     <Item>
-      <ImageContainer>
-        <img width={500} height={400}  src={img} alt={name} />
-      </ImageContainer>
+      <a href={link} aria-label={name} target="_blank" rel="noreferrer" >
+    <ImageContainer>
+      <img width={500} height={400} src={img} alt={name} />
+    </ImageContainer>
+      </a>
+      <a href={link} aria-label={name} target="_blank" rel="noreferrer" >
       <Name>{name}</Name>
+      </a>
       <Position>{position}</Position>
-    </Item>
+  </Item>
   )
-}
-
+  }
 
 const Team = () => {
   return (
@@ -142,16 +157,15 @@ const Team = () => {
     <ConfettiComponent  /> </Suspense>
       <Title>Team</Title>
       <Container>
-        <MemberComponent img={img1}  name="Kevin Woods" position="founder" />
-        
-        <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" />
-        <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" />
-        <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" />
+        <MemberComponent img={img1}  name="Kevin Woods" position="founder" link="https://twitter.com/scotchnoblemen" />
+        <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" link="https://twitter.com/StandaertJimmy"/>
+        <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" link="https://twitter.com/Rasputinnnnnnn_"/>
+        <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" link="https://twitter.com/Outlawdxyz" />
         <MemberComponent img={img5}  name="Nikki Studios" position="Artist 1" />
-        <MemberComponent img={img6}  name="GDP" position="Moderator" />
+        <MemberComponent img={img6}  name="GDP" position="Moderator" link="https://twitter.com/grimdaddypurp"/>
         <MemberComponent img={img7}  name="Fergus" position="Web3 Developer" />
-        <MemberComponent img={img8}  name="Kevin" position="Moderator" />
-        <MemberComponent img={img9}  name="Diana" position="Marketing Manager" /> 
+        <MemberComponent img={img8}  name="Kevin" position="Moderator" link="https://twitter.com/GutterDwarf"/>
+        <MemberComponent img={img9}  name="Josh" position="Consultant" link="https://twitter.com/JoshiedNFT" /> 
         
 
       </Container>
