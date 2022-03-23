@@ -158,7 +158,7 @@ const Team = () => {
       <Title>Team</Title>
       <Container>
         <MemberComponent img={img1}  name="Kevin Woods" position="founder" link="https://twitter.com/scotchnoblemen" />
-        <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" link="https://twitter.com/StandaertJimmy"/>
+        <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" link="https://www.linkedin.com/in/jimmystandaert/"/>
         <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" link="https://twitter.com/Rasputinnnnnnn_"/>
         <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" link="https://www.instagram.com/immaculate.0utlaw/" />
         <MemberComponent img={img5}  name="Nikki Studios" position="Artist 1" />
