@@ -157,7 +157,7 @@ const About = () => {
         Do You Like<br /> Passive Income? 
         </Title>
         <SubText>
-        The Scotch Noblemen collection offers an industry refining staking game, securitized tokenomics, and a metaverse-land owning DAO!  </SubText>
+        The Scotch Noblemen collection offers an industry refining staking game, tokenomics, and a metaverse-land owning DAO!  </SubText>
         <SubTextLight>
         Earn ERC-20 tokens from yield farm name, then win big, or loose it all by predicting the victor of the highland game!
 
