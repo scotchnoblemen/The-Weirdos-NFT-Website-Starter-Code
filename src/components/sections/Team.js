@@ -165,7 +165,7 @@ const Team = () => {
         <MemberComponent img={img6}  name="GDP" position="Moderator" link="https://twitter.com/grimdaddypurp"/>
         <MemberComponent img={img7}  name="Fergus" position="Web3 Developer" />
         <MemberComponent img={img8}  name="Kevin" position="Moderator" link="https://twitter.com/GutterDwarf"/>
-        <MemberComponent img={img9}  name="Josh" position="Consultant" link="https://twitter.com/JoshiedNFT" /> 
+        <MemberComponent img={img9}  name="i64" position="Streamer/ Influencer" link="https://twitter.com/i64StudioNFTs" /> 
         
 
       </Container>
