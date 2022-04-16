@@ -160,7 +160,8 @@ const Team = () => {
         <MemberComponent img={img1}  name="Kevin Woods" position="founder" link="https://twitter.com/scotchnoblemen" />
         <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" link="https://www.linkedin.com/in/jimmystandaert/"/>
         <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" link="https://twitter.com/Rasputinnnnnnn_"/>
-        <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" link="https://www.instagram.com/immaculate.0utlaw/" />
+        {/* <MemberComponent img={img4}  name="immaculate.0utlaw " position="Head of Merch Design" link="https://www.instagram.com/immaculate.0utlaw/" /> */}
+        
         <MemberComponent img={img5}  name="Wyatt Fowler" position="Data scientist" link="https://www.instagram.com/wyatt.six.11/"/>
         <MemberComponent img={img6}  name="GDP" position="Moderator" link="https://twitter.com/grimdaddypurp"/>
         <MemberComponent img={img7}  name="Fergus" position="Web3 Developer" />
