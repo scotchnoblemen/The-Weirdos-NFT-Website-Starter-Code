@@ -159,7 +159,7 @@ const About = () => {
         <SubText>
         The Scotch Noblemen collection offers an industry refining staking game, tokenomics, and a metaverse-land owning DAO!  </SubText>
         <SubTextLight>
-        Earn ERC-20 tokens from yield farm name, then win big, or loose it all by predicting the victor of the highland game!
+        Earn ERC-20 tokens while staking your NFT, then win big, or lose it all by predicting the victor of the highland game!
 
 
         </SubTextLight>
