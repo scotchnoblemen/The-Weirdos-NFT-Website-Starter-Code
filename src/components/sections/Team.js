@@ -159,15 +159,15 @@ const Team = () => {
       <Container>
         <MemberComponent img={img1}  name="Kevin Woods" position="co-founder" link="https://twitter.com/scotchnoblemen" />
         <MemberComponent img={img2}  name="Jimmy Standaert" position="Co-Founder/ CTO" link="https://www.linkedin.com/in/jimmystandaert/"/>
-        <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" link="https://twitter.com/Rasputinnnnnnn_"/>
+        {/* <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" link="https://twitter.com/Rasputinnnnnnn_"/> */}
         <MemberComponent img={img4}  name="Jeff Steinhauer " position="co-founder" link="https://twitter.com/MaxxhammerETH" />
-        
+        <MemberComponent img={img3}  name="Rob Burgher" position="Scribe" link="https://twitter.com/Rasputinnnnnnn_"/>
+
         <MemberComponent img={img5}  name="Wyatt Fowler" position="Data scientist" link="https://www.instagram.com/wyatt.six.11/"/>
         <MemberComponent img={img6}  name="GDP" position="Moderator" link="https://twitter.com/grimdaddypurp"/>
         <MemberComponent img={img7}  name="Fergus" position="Web3 Developer" />
         <MemberComponent img={img8}  name="Kevin" position="Moderator" link="https://twitter.com/GutterDwarf"/>
         <MemberComponent img={img9}  name="i64" position="Streamer/ Influencer" link="https://twitter.com/i64StudioNFTs" /> 
-        
 
       </Container>
     </Section>
