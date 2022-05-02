@@ -104,7 +104,7 @@ const TypeWriterText = () => {
     </Title>
     <SubTitle>Welcome to the ever expanding world of The Scotch Noblemen NFT collection! </SubTitle>
     <ButtonContainer>
-    <Button text="Join our Discord" link="https://discord.gg/aFCxeH8Fw2" />
+    <Button text="Join our Discord" link="https://discord.gg/scotchnoblemen" />
     </ButtonContainer>
     </>
   );
