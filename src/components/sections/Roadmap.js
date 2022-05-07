@@ -206,7 +206,7 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Create ERC 721 Contract (completed)"
+            title="Create ERC 721A Contract"
             subtext="February 2022"
           />
                     <RoadMapItem
@@ -216,7 +216,7 @@ const Roadmap = () => {
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Fill 2000 whitelist spots"
+            title="Fill 1000 whitelist spots"
             subtext="May 2022"
           />
           <RoadMapItem
@@ -226,24 +226,20 @@ const Roadmap = () => {
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Drop Bonnie Lasses"
-            subtext="June 2022"
+            title="Release Tokenomics for Highland Games"
+            subtext="May 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Drop NFT Staking Game"
+            title="Noblemen Highland Games (Livestream Pay to Earn)"
             subtext="July 2022"
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Scottish Highland Games"
+            title="IRL and Streaming Highland Games"
             subtext="Labor day weekend 2022"
           />  
-          <RoadMapItem
-            addToRef={addToRefs}
-            title="Meta-verse land DAO"
-            subtext="September 2022"
-          />                                     
+                             
         </Items>
       </Container>
     </Section>
