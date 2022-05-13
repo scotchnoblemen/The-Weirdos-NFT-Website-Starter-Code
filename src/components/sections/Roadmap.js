@@ -231,7 +231,7 @@ const Roadmap = () => {
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Noblemen Highland Games (Livestream Pay to Earn)"
+            title="Noblemen Highland Games (Livestream Play to Earn)"
             subtext="July 2022"
           />
           <RoadMapItem
